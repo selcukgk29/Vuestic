@@ -1,0 +1,2 @@
+import{D as r}from"./index-54a256bd.js";import{C as e,p as n,a as p,b as s,A as i,c as u}from"./Dashboard-6d025bd9.js";import{d as l,a as m,g as c,u as g}from"./index-4dfcd51c.js";import"./useProjects-51b8bf5d.js";import"./utils-b2fc192b.js";import"./ProjectStatusBadge.vue_vue_type_script_setup_true_lang-3db229a7.js";const A=l({__name:"DoughnutChart",props:{data:{},options:{}},setup(t){e.register(n,p,s,i,u);const o=t;return(a,d)=>(m(),c(g(r),{data:o.data,options:a.options},null,8,["data","options"]))}});export{A as default};
+//# sourceMappingURL=DoughnutChart-bace5b03.js.map
